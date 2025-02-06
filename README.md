@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Lox interpreter coded in Rust
+[A Lox interpreter coded in Rust](https://github.com/Garkatron/Rust-Lox-Interpreter)
 
 
 # 💻 Tech Stack:
