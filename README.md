@@ -5,7 +5,7 @@
 
 [🦀 A **Rust**-coded LRU cache](https://github.com/Garkatron/LRU-Cache-Rust)
 
-[💾 A Chip-8 Emulator in Python 🐍](https://github.com/Garkatron/Von-Neumann-Simulator)
+[🐍 A Chip-8 Emulator in Python](https://github.com/Garkatron/Von-Neumann-Simulator)
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
