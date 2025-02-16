@@ -8,8 +8,8 @@
 
 [🐍 A Chip-8 Emulator in Python](https://github.com/Garkatron/Von-Neumann-Simulator)
 
-# 💻 Tech Stack:
-I'm good with
+# 💻 Tech:
+I'm good with:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 
