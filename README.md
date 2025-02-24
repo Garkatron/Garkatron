@@ -20,8 +20,6 @@ I'm using:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![image](https://github.com/user-attachments/assets/c962be49-8dd8-49b0-91d1-bb88ffa7f6c7)
-
 
 I like:
 
