@@ -1,5 +1,5 @@
 # 💫 About Me:
-[🦀 A **Rust**-coded _Lox_ interpreter](https://github.com/Garkatron/Rust-Lox-Interpreter)
+[🦀 A **Rust**-coded _Lox_ interpreter](https://github.com/Garkatron/Rust-Lox-Interpreter) (UNFINISHED)
 
 [🦀 A **Rust**-coded LRU cache](https://github.com/Garkatron/LRU-Cache-Rust)
 
