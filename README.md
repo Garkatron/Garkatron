@@ -1,4 +1,4 @@
-![tauri](https://github.com/user-attachments/assets/ac41376d-b737-49cd-983d-5b35e23103c8)# 💫 About Me:
+# 💫 About Me:
 [🦀 A **Rust**-coded _Lox_ interpreter](https://github.com/Garkatron/Rust-Lox-Interpreter) (UNFINISHED)
 
 [🦀 A **Rust**-coded LRU cache](https://github.com/Garkatron/LRU-Cache-Rust)
@@ -21,7 +21,6 @@ I'm using:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-
 
 I like:
 
