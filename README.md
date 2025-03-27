@@ -9,6 +9,8 @@
 
 [🐍 A Chip-8 Emulator in Python](https://github.com/Garkatron/Von-Neumann-Simulator)
 
+[🐍 A Von-Neumann-Simulator in Python](https://github.com/Garkatron/Von-Neumann-Simulator)
+
 # 💻 Tech:
 I'm good with:
 
