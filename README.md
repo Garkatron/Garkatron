@@ -3,7 +3,7 @@
 
 [🦀 A **Rust**-coded LRU cache](https://github.com/Garkatron/LRU-Cache-Rust)
 
-[😎 PC-Pokemon](https://github.com/Garkatron/PC-PokeApi) [Web](https://garkatron.github.io/PC-PokeApi/)
+[😎 PC-Pokemon](https://github.com/Garkatron/PC-PokeApi) ---> [Web](https://garkatron.github.io/PC-PokeApi/)
 
 [🗽 TerraX69 (WORK IN PROGRESS)](https://github.com/Garkatron/TerraX69-JS)
 
