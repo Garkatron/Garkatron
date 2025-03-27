@@ -3,6 +3,8 @@
 
 [🦀 A **Rust**-coded LRU cache](https://github.com/Garkatron/LRU-Cache-Rust)
 
+[😎 PC-Pokemon](https://github.com/Garkatron/PC-PokeApi)
+
 [🗽 TerraX69 (WORK IN PROGRESS)](https://github.com/Garkatron/TerraX69-JS)
 
 [🐍 A Chip-8 Emulator in Python](https://github.com/Garkatron/Von-Neumann-Simulator)
