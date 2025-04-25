@@ -9,7 +9,7 @@
 
 [😎 PC-Pokemon](https://github.com/Garkatron/PC-PokeApi) ---> [Web](https://garkatron.github.io/PC-PokeApi/)
 
-[🗽 TerraX69 (UNFINISHED)](https://github.com/Garkatron/TerraX69-JS)
+[🗽 TerraX69 ](https://github.com/Garkatron/TerraX69-JS) **(UNFINISHED)**
 
 [🐍 A Chip-8 Emulator in Python](https://github.com/Garkatron/Von-Neumann-Simulator)
 
