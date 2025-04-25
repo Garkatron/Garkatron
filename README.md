@@ -1,5 +1,5 @@
 # 💫 About Me:
-[©️ My Implementation of CLOX](https://github.com/Garkatron/OWN_CLOX_IMPLEMENTATION/tree/main) **(UNFINISHED)**
+[©️ My Implementation of CLOX](https://github.com/Garkatron/OWN_CLOX_IMPLEMENTATION/tree/main) **(WORK IN PROGRESS)**
 
 [🦀 A badly written **Rust** Lox tree-walk interpreter](https://github.com/Garkatron/Rust-Lox-Interpreter)
 
@@ -9,7 +9,7 @@
 
 [😎 PC-Pokemon](https://github.com/Garkatron/PC-PokeApi) ---> [Web](https://garkatron.github.io/PC-PokeApi/)
 
-[🗽 TerraX69 (WORK IN PROGRESS)](https://github.com/Garkatron/TerraX69-JS)
+[🗽 TerraX69 (UNFINISHED)](https://github.com/Garkatron/TerraX69-JS)
 
 [🐍 A Chip-8 Emulator in Python](https://github.com/Garkatron/Von-Neumann-Simulator)
 
