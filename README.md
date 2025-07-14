@@ -1,7 +1,7 @@
 # 💫 About Me:
 [©️ My Implementation of CLOX](https://github.com/Garkatron/OWN_CLOX_IMPLEMENTATION/tree/main) **(WORK IN PROGRESS)**
 
-[2D Rasterizer in Rust](https://github.com/Garkatron/ScrapRenderer)
+[🦀 2D Rasterizer in Rust](https://github.com/Garkatron/ScrapRenderer)
 
 [🦀 A badly written **Rust** Lox tree-walk interpreter](https://github.com/Garkatron/Rust-Lox-Interpreter)
 
