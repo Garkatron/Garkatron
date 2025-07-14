@@ -1,6 +1,8 @@
 # 💫 About Me:
 [©️ My Implementation of CLOX](https://github.com/Garkatron/OWN_CLOX_IMPLEMENTATION/tree/main) **(WORK IN PROGRESS)**
 
+[2D Rasterizer in Rust](https://github.com/Garkatron/ScrapRenderer)
+
 [🦀 A badly written **Rust** Lox tree-walk interpreter](https://github.com/Garkatron/Rust-Lox-Interpreter)
 
 [🦀 A **Rust**-coded LRU cache](https://github.com/Garkatron/LRU-Cache-Rust)
@@ -9,7 +11,7 @@
 
 [😎 PC-Pokemon](https://github.com/Garkatron/PC-PokeApi) ---> [Web](https://garkatron.github.io/PC-PokeApi/)
 
-[🗽 TerraX69 ](https://github.com/Garkatron/TerraX69-JS) **(UNFINISHED)**
+[🗽 TerraX69 ](https://github.com/Garkatron/TerraX69-JS) **(DEMO)**
 
 [🐍 A Chip-8 Emulator in Python](https://github.com/Garkatron/Von-Neumann-Simulator)
 
