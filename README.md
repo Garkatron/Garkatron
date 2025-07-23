@@ -1,4 +1,4 @@
-# Hey, I'm [Matias]! 👋
+# Hey, I'm Matias! 👋
 
 I'm a passionate developer with expertise in **Java**, **Rust**, **Python**, and more. I love building innovative projects, from emulators to interpreters, and I'm always diving into new technologies. Currently, I'm working on my **CLOX** implementation and exploring game development with **Godot**.
 
