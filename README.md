@@ -28,7 +28,7 @@ I'm a passionate developer with expertise in **Java**, **Rust**, **Python**, and
 
 ## 🌟 Featured Projects
 
-- **[🦀 2D Rasterizer in Rust](https://github.com/Garkatron/ScrapRenderer)**  
+- **[🦀 3D Rasterizer in Rust](https://github.com/Garkatron/ScrapRenderer)**  
   A 2D rendering engine written in Rust, built to experiment with graphics and optimization.
 
 - **[©️ CLOX Implementation](https://github.com/Garkatron/OWN_CLOX_IMPLEMENTATION)** *(Work in Progress)*  
