@@ -53,6 +53,8 @@ I'm a passionate developer with expertise in **Java**, **Rust**, **Python**, and
 - **[📚 Learning Resources](https://github.com/Garkatron/IWantToLearnX)**  
   A curated collection of resources for learning programming and related technologies.
 
+- **[📚 Assets Resources](https://github.com/Garkatron/assets-collection)**  
+
 ---
 
 ## 📊 GitHub Stats
