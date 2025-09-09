@@ -28,7 +28,7 @@ I'm a passionate developer with expertise in **Java**, **Rust**, **Python**, and
 
 ## 🌟 Featured Projects
 
-- **[🎭 Noir Comic Style Portfolio 🎭](https://github.com/Garkatron/ComicPortfolio)**
+- **[🎭 Noir Comic Style Portfolio 🎭](https://github.com/Garkatron/ComicPortfolio)**  
   A web page build with astro to share a unique style of portfolio!
   
 - **[🦀 3D Rasterizer in Rust](https://github.com/Garkatron/ScrapRenderer)**  
