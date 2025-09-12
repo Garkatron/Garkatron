@@ -30,7 +30,8 @@ I'm a passionate developer with expertise in **Java**, **Rust**, **Python**, and
 
 - **[🎭 Noir Comic Style Portfolio 🎭](https://github.com/Garkatron/ComicPortfolio)**  
   A web page build with astro to share a unique style of portfolio!
-  
+  [🔗 Try it here](https://garkatron.github.io/ComicPortfolio/)
+
 - **[🦀 3D Rasterizer in Rust](https://github.com/Garkatron/ScrapRenderer)**  
   A 2D rendering engine written in Rust, built to experiment with graphics and optimization.
 
