@@ -68,6 +68,7 @@ I'm a passionate developer with expertise in **Java**, **Rust**, **Python**, and
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Garkatron&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Garkatron&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
