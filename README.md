@@ -1,6 +1,7 @@
 # Hey, I'm Matias! 👋
-
-I'm a passionate developer with expertise in **Java**, **Rust**, **Python**, and more. I love building innovative projects, from emulators to interpreters, and I'm always diving into new technologies. Currently, I'm working on my **CLOX** implementation and exploring game development with **Godot**.
+I have experience in Java and am currently specializing in web development.
+I am highly interested in projects related to emulators and language virtual machines, as I enjoy exploring the fundamentals of computing.
+At the same time, I am learning Rust to expand my skills in high-performance software development.
 
 🌍 **Connect with me:**
 - 📧 Email: [masitacarg@gmail.com](mailto:masitacarg@gmail.com)
