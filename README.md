@@ -56,21 +56,8 @@ I'm a passionate developer with expertise in **Java**, **Rust**, **Python**, and
 - **[©️ CLOX Implementation](https://github.com/Garkatron/OWN_CLOX_IMPLEMENTATION)** *(Work in Progress)*  
   My custom implementation of the CLOX interpreter, diving into compilers and programming languages.
 
-- **[😎 PC-Pokemon](https://github.com/Garkatron/PC-PokeApi)**  
-  An interactive web app for exploring Pokémon data using the PokéAPI.  
-  [🔗 Try it here](https://garkatron.github.io/PC-PokeApi/)
-
-- **[🐍 Chip-8 & Von-Neumann Emulator in Python](https://github.com/Garkatron/Von-Neumann-Simulator)**  
-  A Von-Neumann architecture and Chip-8 emulator, perfect for learning about low-level systems.
-
 - **[🦀 Lox Interpreter in Rust](https://github.com/Garkatron/Rust-Lox-Interpreter)**  
   A tree-walk interpreter for the Lox language, written in Rust to practice data structures and parsing.
-
-- **[🦀 LRU Cache in Rust](https://github.com/Garkatron/LRU-Cache-Rust)**  
-  An efficient Least Recently Used (LRU) cache implementation in Rust.
-
-- **[🗽 TerraX69 (Demo)](https://github.com/Garkatron/TerraX69-JS)**  
-  An experimental JavaScript project exploring simulation and visualization concepts.
 
 - **[📚 Learning Resources](https://github.com/Garkatron/IWantToLearnX)**  
   A curated collection of resources for learning programming and related technologies.
