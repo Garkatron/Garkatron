@@ -11,18 +11,35 @@ I'm a passionate developer with expertise in **Java**, **Rust**, **Python**, and
 
 ## 💻 Tech Stack
 
-### 🛠️ Proficient
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### Main languages
+#### On use
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+#### Learning
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge\&logo=rust\&logoColor=white)
 
-### 📚 Learning
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 🌐 **Frontend**
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge\&logo=react-router\&logoColor=white)
+![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge\&logo=bulma\&logoColor=white)
+
+### ⚙️ **Backend**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=JSON%20web%20tokens)
+
+### 🗄️ **Databases**
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+### Documentation
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge\&logo=markdown\&logoColor=white)
+
+#### Occasional use Languages
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge\&logo=kotlin\&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge\&logo=lua\&logoColor=white)
 
 ---
 
