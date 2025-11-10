@@ -47,6 +47,8 @@ At the same time, I am learning Rust to expand my skills in high-performance sof
 
 ## 🌟 Featured Projects
 
+- **[📨 Express Quiz REST API 📨](https://github.com/Garkatron/ExpressQuizzApi)**
+
 - **[🎭 Noir Comic Style Portfolio 🎭](https://github.com/Garkatron/ComicPortfolio)**  
   A web page build with astro to share a unique style of portfolio!
   [🔗 Try it here](https://garkatron.github.io/ComicPortfolio/)
