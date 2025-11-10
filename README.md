@@ -23,7 +23,7 @@ At the same time, I am learning Rust to expand my skills in high-performance sof
 ### 🌐 **Frontend**
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge\&logo=react-router\&logoColor=white)
-![TailwindCSS]([https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge\&logo=bulma\&logoColor=white](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC))
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
 ### ⚙️ **Backend**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
