@@ -56,8 +56,8 @@ At the same time, I am learning Rust to expand my skills in high-performance sof
 - **[🦀 3D Rasterizer in Rust](https://github.com/Garkatron/ScrapRenderer)**  
   A 2D rendering engine written in Rust, built to experiment with graphics and optimization.
 
-- **[©️ CLOX Implementation](https://github.com/Garkatron/OWN_CLOX_IMPLEMENTATION)** *(Work in Progress)*  
-  My custom implementation of the CLOX interpreter, diving into compilers and programming languages.
+- **[©️ CLOX Implementation](https://github.com/Garkatron/OWN_CLOX_IMPLEMENTATION)** *(Incomplete)*  
+  My implementation of the CLOX interpreter, diving into compilers and programming languages.
 
 - **[🦀 Lox Interpreter in Rust](https://github.com/Garkatron/Rust-Lox-Interpreter)**  
   A tree-walk interpreter for the Lox language, written in Rust to practice data structures and parsing.
