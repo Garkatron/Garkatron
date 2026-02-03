@@ -21,7 +21,7 @@
 
 <div align="center">
 
-## **Matías — Software Developer**
+## **Matías [Software Developer]**
 
 Software developer with experience in **Java** and **web development**, currently focusing on **Rust** to build high-performance systems.  
 Strong interest in **emulators**, **language virtual machines**, and the fundamentals of computing.
@@ -187,16 +187,6 @@ Portfolio website built with Astro, focused on a distinctive comic-noir visual s
 </td>
 </tr>
 </table>
-
----
-
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Garkatron&theme=radical)
-
-</div>
 
 ---
 
