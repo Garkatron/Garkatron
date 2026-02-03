@@ -171,25 +171,6 @@ Portfolio website built with Astro, focused on a distinctive comic-noir visual s
 
 ---
 
-## 📊 **GitHub Stats**
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Garkatron&show_icons=true&theme=radical)
-
-</td>
-<td width="50%" align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Garkatron&layout=compact&theme=radical)
-
-</td>
-</tr>
-</table>
-
----
-
 <div align="center">
 
 ### 💭 **Quote**
