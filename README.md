@@ -26,9 +26,18 @@
 Software developer with experience in **Java** and **web development**, currently focusing on **Rust** to build high-performance systems.  
 Strong interest in **emulators**, **language virtual machines**, and the fundamentals of computing.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://garkatron.github.io/Portfolio)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/deus_xm408)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masitacarg@gmail.com)
+
+<p align="center">
+  <a href="https://garkatron.github.io/Portfolio">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-4A90E2?style=for-the-badge&labelColor=1a1a2e" alt="Portfolio"/>
+  </a>
+  <a href="https://discord.gg/deus_xm408">
+    <img src="https://img.shields.io/badge/Discord-Join_Me-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a2e" alt="Discord"/>
+  </a>
+  <a href="mailto:masitacarg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email"/>
+  </a>
+</p>
 
 </div>
 
