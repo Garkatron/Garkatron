@@ -21,7 +21,7 @@
 
 <div align="center">
 
-## **Matías [Software Developer]**
+## **Matías**
 
 Software developer with experience in **Java** and **web development**, currently focusing on **Rust** to build high-performance systems.  
 Strong interest in **emulators**, **language virtual machines**, and the fundamentals of computing.
