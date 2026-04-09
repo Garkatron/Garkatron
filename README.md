@@ -159,13 +159,5 @@ REST API built with Express for quiz management.
 
 ---
 
-<div align="center">
 
-### 💭 **Quote**
-
-> *"Code is like humor: when you have to explain it, it's bad."*  
-> — Cory House
-
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&fontAlign=7&fontAlignY=22&rotate=25&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Code%20is%20like%20humor...&desc=—%20Cory%20House&fontAlignY=40&fontSize=30&descSize=20&section=footer)
