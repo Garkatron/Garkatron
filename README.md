@@ -167,3 +167,5 @@ REST API built with Express for quiz management.
 > — Cory House
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&fontAlign=7&fontAlignY=22&rotate=25&section=footer)
