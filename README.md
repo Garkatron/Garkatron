@@ -40,8 +40,7 @@ Strong interest in **emulators**, **language virtual machines**, and the fundame
 
 </div>
 
-
-<img width="1440" height="996" alt="image" src="https://github.com/user-attachments/assets/b88b3dce-2aa7-4c96-b5b2-4858938f7a31" />
+<img width="1440" height="996" alt="image" src="https://github.com/user-attachments/assets/fe284291-a01d-4f3c-9c83-c6ac36d67ff4" />
 
 ## 🚀 **Featured Projects**
 
